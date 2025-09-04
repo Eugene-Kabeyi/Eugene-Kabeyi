@@ -9,7 +9,7 @@ Just replace the placeholder text and links with your own information.
 -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://placehold.co/400x150/2c3e50/ecf0f1%3Ftext%3DYour%2BName%2BHere" alt="Profile Banner" style="border-radius: 12px; max-width: 100%; height: auto;">
+<img src="https://avatars.githubusercontent.com/u/104126948?v=4" alt="Profile Banner" style="border-radius: 12px; max-width: 100%; height: auto;">
 <h1 style="color: #2c3e50; margin-top: 10px; font-size: 2.5em; font-weight: bold;">Hello, I'm <span style="color: #3498db;">Eugene Kabeyi!</span>👋</h1>
 <p style="color: #7f8c8d; font-size: 1.2em;">A passionate and dedicated <span style="color: #3498db; font-weight: bold;">ALX Software Engineering Student</span></p>
 </div>
