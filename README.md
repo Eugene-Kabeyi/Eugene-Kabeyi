@@ -7,11 +7,6 @@ Replace placeholder text and links with your own information.
 -->
 
 <div align="center" style="max-width: 800px; margin: auto; padding: 1rem;">
-  <img
-    src="https://avatars.githubusercontent.com/u/104126948?v=4"
-    alt="Eugene Kabeyi's Profile Picture"
-    style="border-radius: 12px; max-width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
-  />
   <h1 style="color: #2c3e50; margin-top: 1rem; font-size: 2.5rem; font-weight: 700;">
     Hello, I'm <span style="color: #3498db;">Eugene Kabeyi</span>!
   </h1>
