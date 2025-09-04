@@ -136,7 +136,7 @@ Replace placeholder text and links with your own information.
   </p>
   <div align="center" style="margin-top: 1rem;">
     <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/eugenekabeyi" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <a href="https://www.linkedin.com/in/eugene-kabeyi-3226a5236/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
       <img
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedIn Badge"
@@ -144,5 +144,12 @@ Replace placeholder text and links with your own information.
       />
     </a>
     <!-- Add more social badges as needed -->
+     <a href="https://x.com/Eugene_k144" target="_blank" rel="noopener noreferrer" aria-label="Twitter">
+      <img
+        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="Twitter Badge"
+      style="margin: 5px;"
+      />
+  </a>
   </div>
 </section>
