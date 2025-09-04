@@ -81,15 +81,7 @@ Replace placeholder text and links with your own information.
       </h3>
       <p>Developed a Library Management System using C# to efficiently manage book inventories and user transactions.</p>
     </div>
-    <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-      <a href="https://github.com/Eugene-Kabeyi/smartrail" target="_blank" rel="noopener noreferrer" aria-label="SmartRail Repository">
-        <img
-          src="https://raw.githubusercontent.com/Eugene-Kabeyi/smartrail/main/assets/train-icon.png"
-          alt="SmartRail Mobile App Icon"
-          style="width: 100%; height: 150px; object-fit: contain; border-radius: 6px; margin-bottom: 0.75rem;"
-          onerror="this.src='https://img.icons8.com/ios-filled/100/000000/train.png'"
-        />
-      </a>
+    <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"
       <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem; color: #2980b9;">
         <a href="https://github.com/Eugene-Kabeyi/smartrail" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
           SmartRail
