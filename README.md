@@ -83,13 +83,6 @@ Replace placeholder text and links with your own information.
     </div>
     <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
       <a href="https://github.com/Eugene-Kabeyi/pharmacy" target="_blank" rel="noopener noreferrer" aria-label="Pharmacy Database Repository">
-        <img
-          src="https://raw.githubusercontent.com/Eugene-Kabeyi/pharmacy/main/assets/pharmacy-icon.png"
-          alt="Pharmacy Database Icon"
-          style="width: 100%; height: 150px; object-fit: contain; border-radius: 6px; margin-bottom: 0.75rem;"
-          onerror="this.src='https://img.icons8.com/ios-filled/100/000000/pharmacy.png'"
-        />
-      </a>
       <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem; color: #2980b9;">
         <a href="https://github.com/Eugene-Kabeyi/pharmacy" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
           Pharmacy Database
@@ -98,14 +91,6 @@ Replace placeholder text and links with your own information.
       <p>A pharmacy database developed using MySQL to manage inventory and sales data effectively.</p>
     </div>
     <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-      <a href="https://github.com/Eugene-Kabeyi/rine__hostels" target="_blank" rel="noopener noreferrer" aria-label="Rine Hostels Repository">
-        <img
-          src="https://raw.githubusercontent.com/Eugene-Kabeyi/rine__hostels/main/assets/hostel-icon.png"
-          alt="Rine Hostels Website Icon"
-          style="width: 100%; height: 150px; object-fit: contain; border-radius: 6px; margin-bottom: 0.75rem;"
-          onerror="this.src='https://img.icons8.com/ios-filled/100/000000/hostel.png'"
-        />
-      </a>
       <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem; color: #2980b9;">
         <a href="https://github.com/Eugene-Kabeyi/rine__hostels" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
           Rine Hostels
@@ -114,14 +99,6 @@ Replace placeholder text and links with your own information.
       <p>A hostel advertisement website developed using HTML, CSS, and PHP to connect tenants and landlords.</p>
     </div>
     <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
-      <a href="https://github.com/Eugene-Kabeyi/school" target="_blank" rel="noopener noreferrer" aria-label="School Management Website Repository">
-        <img
-          src="https://raw.githubusercontent.com/Eugene-Kabeyi/school/main/assets/school-icon.png"
-          alt="School Management Website Icon"
-          style="width: 100%; height: 150px; object-fit: contain; border-radius: 6px; margin-bottom: 0.75rem;"
-          onerror="this.src='https://img.icons8.com/ios-filled/100/000000/school.png'"
-        />
-      </a>
       <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem; color: #2980b9;">
         <a href="https://github.com/Eugene-Kabeyi/school" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
           School Management Website
