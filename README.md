@@ -73,7 +73,7 @@ Replace placeholder text and links with your own information.
       </h3>
       <p>Developed a Library Management System using C# to efficiently manage book inventories and user transactions.</p>
     </div>
-    <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"
+    <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
       <h3 style="margin: 0 0 0.5rem 0; font-size: 1.25rem; color: #2980b9;">
         <a href="https://github.com/Eugene-Kabeyi/smartrail" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
           SmartRail
