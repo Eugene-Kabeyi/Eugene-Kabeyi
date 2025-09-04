@@ -81,8 +81,6 @@ Replace placeholder text and links with your own information.
       </h3>
       <p>Developed a Library Management System using C# to efficiently manage book inventories and user transactions.</p>
     </div>
-
-    <!-- Project 2 -->
     <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
       <a href="https://github.com/Eugene-Kabeyi/smartrail" target="_blank" rel="noopener noreferrer" aria-label="SmartRail Repository">
         <img
@@ -99,8 +97,6 @@ Replace placeholder text and links with your own information.
       </h3>
       <p>A train station mobile application developed using Java and XML to improve commuter experience.</p>
     </div>
-
-    <!-- Project 3 -->
     <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
       <a href="https://github.com/Eugene-Kabeyi/pharmacy" target="_blank" rel="noopener noreferrer" aria-label="Pharmacy Database Repository">
         <img
@@ -117,8 +113,6 @@ Replace placeholder text and links with your own information.
       </h3>
       <p>A pharmacy database developed using MySQL to manage inventory and sales data effectively.</p>
     </div>
-
-    <!-- Project 4 -->
     <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
       <a href="https://github.com/Eugene-Kabeyi/rine__hostels" target="_blank" rel="noopener noreferrer" aria-label="Rine Hostels Repository">
         <img
@@ -135,8 +129,6 @@ Replace placeholder text and links with your own information.
       </h3>
       <p>A hostel advertisement website developed using HTML, CSS, and PHP to connect tenants and landlords.</p>
     </div>
-
-    <!-- Project 5 -->
     <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
       <a href="https://github.com/Eugene-Kabeyi/school" target="_blank" rel="noopener noreferrer" aria-label="School Management Website Repository">
         <img
