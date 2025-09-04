@@ -67,8 +67,6 @@ Replace placeholder text and links with your own information.
     <!-- Project 1 -->
     <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 8px; padding: 1rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1);">
       <a href="https://github.com/Eugene-Kabeyi/LibrarySystem" target="_blank" rel="noopener noreferrer" aria-label="Library Management System Repository">
-        <img
-          src="https://img.icons8.com/ios-filled/100/000000/books.png"
           alt="Library Management System Icon"
           style="width: 100%; height: 150px; object-fit: contain; border-radius: 6px; margin-bottom: 0.75rem;"
           onerror="this.src='https://img.icons8.com/ios-filled/100/000000/books.png'"
