@@ -11,7 +11,7 @@ Replace placeholder text and links with your own information.
     Hello, I'm <span style="color: #3498db;">Eugene Kabeyi</span>!
   </h1>
   <p style="color: #7f8c8d; font-size: 1.25rem; font-weight: 500; margin-top: 0.25rem;">
-    A passionate and dedicated <strong style="color: #3498db;">ALX Software Engineering Student</strong>
+    A passionate and dedicated <strong style="color: #3498db;">Software Engineering Student</strong>
   </p>
 </div>
 
