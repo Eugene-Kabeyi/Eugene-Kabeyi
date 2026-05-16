@@ -45,10 +45,7 @@ Replace placeholder text and links with your own information.
     </a>
     <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" aria-label="Python">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" style="margin: 5px;" />
-    </a>
-    <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" aria-label="React">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" style="margin: 5px;" />
-    </a>
+   
   </div>
 </section>
 
