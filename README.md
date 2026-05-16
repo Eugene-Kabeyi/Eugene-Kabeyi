@@ -45,6 +45,11 @@ Replace placeholder text and links with your own information.
     </a>
     <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" aria-label="Python">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" style="margin: 5px;" />
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noopener noreferrer" aria-label="PHP">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" style="margin: 5px;" />
+    </a>
+    
    
   </div>
 </section>
